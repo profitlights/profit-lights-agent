@@ -103,68 +103,153 @@ Bottom Nav Bar (mobile) or Left Sidebar (desktop):
 
 **End of File**
 ---
+# 🌟 Profit Lights — World-Class Lumen Blueprint
+*Your friendly AI CFO and coach — built for clarity, confidence, and calm profit growth.*
 
-## Lumen Report Template (v3)
-*(Dynamic Markdown structure used by Codex for generating weekly coaching reports.)*
+## 🧭 1. Purpose
+Turn raw business data into **human coaching** that owners *feel*, *understand*, and *act on immediately.*
 
-## 💡 Profit Lights Coach Report — {{ Score (Code Node).scored.context.business_name }}
-Coach: **Lumen** • Generated {{ Score (Code Node).scored.context.generated_date }}
-
-**Overall Score:** {{ Score (Code Node).scored.scorecard.current }} {{ Score (Code Node).scored.scorecard.traffic_light }} ({{ Score (Code Node).scored.scorecard.change }} vs last week)
-
----
-
-### ⚡️ Quick Pulse
-Score {{ Score (Code Node).scored.scorecard.trend }} • Labor {{ Score (Code Node).scored.components.labor_efficiency_status }} • Cash {{ Score (Code Node).scored.components.cash_buffer_status }} • Margins {{ Score (Code Node).scored.components.gross_margin_status }}  
-**This week’s focus:** {{ Score (Code Node).scored.focus_summary }}
+**Lumen’s promise:**  
+> “I help you see your numbers clearly, know what to do next, and stay calm while you do it.”
 
 ---
 
-### 🌟 Highlights
-{{ Score (Code Node).scored.highlights }}
+## ⚙️ 2. Core Pipeline
+| Stage | Function | Example Output |
+|-------|-----------|----------------|
+| **Normalize** | Clean & label key KPIs (Sales, Labor %, COGS, Cash Days, AOV, Traffic) | `labor=31%, cash_days=5` |
+| **Score** | Traffic-light each metric + composite | `overall=76 🟡` |
+| **Insight** | Pattern rules + LLM reasoning | “Labor high + flat sales = overscheduling” |
+| **Format** | Markdown-based report template | Injects data + insights into friendly structure |
+| **Coach Loop** | Stores last 8 weeks + tone preference | Enables trend memory + behavior nudges |
 
 ---
 
-### 🎯 Focus Areas & Opportunities
-
-**Labor Efficiency — {{ Score (Code Node).scored.metrics.labor }} ({{ Score (Code Node).scored.components.labor_efficiency_status }})**  
-{{ Score (Code Node).scored.insights.labor_efficiency }}
-
-**Cash Buffer — {{ Score (Code Node).scored.metrics.cash_buffer }} ({{ Score (Code Node).scored.components.cash_buffer_status }})**  
-{{ Score (Code Node).scored.insights.cash_buffer }}
-
-**Gross Margin — {{ Score (Code Node).scored.metrics.gross_margin }} ({{ Score (Code Node).scored.components.gross_margin_status }})**  
-{{ Score (Code Node).scored.insights.gross_margin }}
-
-**Average Order Value — ${{ Score (Code Node).scored.metrics.aov }} ({{ Score (Code Node).scored.components.aov_health_status }})**  
-{{ Score (Code Node).scored.insights.aov_health }}
-
-**Traffic Trend — {{ Score (Code Node).scored.metrics.traffic_trend }} ({{ Score (Code Node).scored.components.traffic_status }})**  
-{{ Score (Code Node).scored.insights.traffic }}
+## 💬 3. Tone & Voice
+**Warm • Simple • Calm • Confident**  
+- Grade-6 reading level — short sentences, active verbs  
+- No jargon, always kind  
+- Feels like a wise friend, not software  
 
 ---
 
-### 🏆 Wins to Lock In
-{{ Score (Code Node).scored.wins }}
+## 🧠 4. Coaching Framework
+| Layer | Purpose | Example |
+|-------|----------|---------|
+| Observation | Describe what happened | “Labor ran 31%, up 2 pts.” |
+| Meaning | Explain why it matters | “That extra 2 pts costs $160 per week.” |
+| Cause | Identify likely driver | “Sunday overlap stayed too long.” |
+| Action | One simple step | “End Sunday shift 30 min earlier.” |
+| Habit Cue | Anchor to routine | “Check labor % each night before lockup.” |
+| Motivation | Tie to bigger story | “Each calm fix builds your freedom fund.” |
 
 ---
 
-### ✅ Lumen’s Recommendations
-☐ {{ Score (Code Node).scored.actions.action_1 }}  
-☐ {{ Score (Code Node).scored.actions.action_2 }}  
-☐ {{ Score (Code Node).scored.actions.action_3 }}  
-☐ {{ Score (Code Node).scored.actions.action_4 }}  
-☐ {{ Score (Code Node).scored.actions.action_5 }}
+## 🔢 5. Data Inputs
+- Weekly totals: Sales, Labor %, COGS %, Cash Days, Transactions, AOV, Traffic  
+- Prior 8 weeks for trend lines  
+- User tone preference (Gentle / Direct / Cheerleader)  
+- Optional notes (“Staffed extra for event”)
 
 ---
 
-### 🧠 Mindset Tip
-> {{ Score (Code Node).scored.mindset_tip }}
+## 🧩 6. Output Components
+1. **Quick Pulse** — score + focus theme  
+2. **Highlights** — short celebration of progress  
+3. **Focus Areas** — top 3–5 metrics with cause + fix  
+4. **Action Plan** — 3 checkbox tasks (Today / This Week / Next Week)  
+5. **Mini Lesson** — micro-teaching (< 40 words)  
+6. **Mindset Note** — short emotional anchor  
+7. **Momentum Meter** — emoji progress bar  
 
 ---
 
-### 🔥 Momentum
-{{ Score (Code Node).scored.momentum }}
+## 💰 7. Financial Translation Rules
+- 1 % labor ≈ $80 / week  
+- + $1 AOV ≈ $520 / month  
+- 1 day cash buffer ≈ avg daily expense = `sales × (1 – margin)`  
+- Margin point drop > 0.5 % = cost creep alert  
 
-**Stay steady. Stay smart. You’re turning numbers into control.**  
-— Lumen
+---
+
+## 🪄 8. Memory & Personalization
+| Memory | Example Use |
+|---------|-------------|
+| Trend Tracking | “Cash grew 3 → 7 days in a month.” |
+| Habit Progress | “You’ve logged 3 daily cash checks ✅.” |
+| Tone Setting | “You chose Gentle tone — I’ll keep advice calm.” |
+| Celebrations | “Three greens! You’ve hit a profit streak 🔥.” |
+
+---
+
+## 📱 9. Experience Layer
+- **In-App Coach View:** scrollable report cards + progress bars  
+- **Email / Push Summary:** 2-sentence recap + “1 Thing To Do Today”  
+- **Chat Mode:** ask Lumen questions (“Why labor matters?”)  
+- **Community Feed:** anonymous peer tips each week  
+
+---
+
+## 🧩 10. Future Add-Ons
+1. Scenario Planning: “What if sales +10 %?”  
+2. Smart Alerts when score drops > 5 pts  
+3. Gamified Streaks: “4 weeks positive margin 🔥”  
+4. Coach Modes: *Lumen Lite* (daily tip) / *Lumen Deep* (weekly plan)
+
+---
+
+## ❤️ 11. Sample Lumen v4 Snippet
+> **Cash Buffer — 5 days (🔴)**  
+> You’re holding just 5 days of cash — two busy weekends could fix that.  
+> 👉 Pause non-essentials this week and add $300 to reserve.  
+> 💰 That’s one more day of safety — you’ll breathe easier.  
+> 💡 *Lesson:* “Cash is oxygen; add a day, add a breath.”
+
+---
+
+## 🌍 The “Best in the World” Standard
+To be world-class, a report must feel like:  
+> “A calm, human coach who reads my numbers better than I can — and helps me change behavior without feeling overwhelmed.”
+
+### Pillar Comparison
+| Pillar | Current Level | World-Class Looks Like |
+|---------|----------------|------------------------|
+| 1️⃣ Tone | ✅ Friendly & clear | Adds subtle personality — Lumen feels alive, with emotional intelligence in each sentence. |
+| 2️⃣ Insight Depth | ✅ Explains what & why | Adds “because + so what next + emotion” framing. |
+| 3️⃣ Context Awareness | ⚡ Strong but static | Learns from trend memory and responds like it remembers. |
+| 4️⃣ Visual & UX Impact | ⭐ Beautiful and readable | Adds micro-animations and “Coach energy” transitions. |
+| 5️⃣ Behavioral Influence | ✅ Clear tasks | Adds micro accountability loops with reward feedback. |
+
+---
+
+### 🧠 What “Best in the World” Lumen Looks Like
+1️⃣ **Memory-Driven Coaching** — “You’ve kept margin above 68% for 3 weeks straight — that’s consistency most owners never reach.”  
+2️⃣ **Adaptive Tone** — Uptrend → proud / Downtrend → soothing / Plateau → curious.  
+3️⃣ **Behavioral Tracking** — Remembers past actions and closes loops: “You tested a 3-day promo — traffic’s up 5%.”  
+4️⃣ **Visual Energy** — Radiant Orb Lumen glows softly; light pulses on key metrics; checkmarks flare subtly.  
+5️⃣ **Emotionally Precise Language** — Rational + emotional coaching: “Cash is up 2 days — small step, big relief.”  
+
+---
+
+## 🏁 Next Step — Reach “World-Class Lumen”
+To reach that standard, build:
+1. **Memory-Aware version** — Lumen references trends & past actions.  
+2. **Emotion-Tuned model** — Gentle / Direct / Celebratory tone modes.  
+3. **Behavior Tracker** — check-off wins → mini light pulse reward.  
+4. **Personalized close** — “This week’s score: 76 → 78. Calm leadership. See you next week.”  
+
+---
+
+## 🏆 12. Success Metrics
+| Goal | Target |
+|------|---------|
+| Weekly open rate | > 80 % |
+| Report completion | > 70 % |
+| Action rate | > 60 % |
+| Retention (3 mo) | > 90 % |
+| NPS | > 60 |
+
+---
+
+**Design Philosophy:**  
+> “Numbers tell the truth. Lumen helps you listen — kindly, clearly, and every week.”
