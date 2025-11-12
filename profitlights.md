@@ -102,3 +102,69 @@ Bottom Nav Bar (mobile) or Left Sidebar (desktop):
 ---
 
 **End of File**
+---
+
+## Lumen Report Template (v3)
+*(Dynamic Markdown structure used by Codex for generating weekly coaching reports.)*
+
+## 💡 Profit Lights Coach Report — {{ Score (Code Node).scored.context.business_name }}
+Coach: **Lumen** • Generated {{ Score (Code Node).scored.context.generated_date }}
+
+**Overall Score:** {{ Score (Code Node).scored.scorecard.current }} {{ Score (Code Node).scored.scorecard.traffic_light }} ({{ Score (Code Node).scored.scorecard.change }} vs last week)
+
+---
+
+### ⚡️ Quick Pulse
+Score {{ Score (Code Node).scored.scorecard.trend }} • Labor {{ Score (Code Node).scored.components.labor_efficiency_status }} • Cash {{ Score (Code Node).scored.components.cash_buffer_status }} • Margins {{ Score (Code Node).scored.components.gross_margin_status }}  
+**This week’s focus:** {{ Score (Code Node).scored.focus_summary }}
+
+---
+
+### 🌟 Highlights
+{{ Score (Code Node).scored.highlights }}
+
+---
+
+### 🎯 Focus Areas & Opportunities
+
+**Labor Efficiency — {{ Score (Code Node).scored.metrics.labor }} ({{ Score (Code Node).scored.components.labor_efficiency_status }})**  
+{{ Score (Code Node).scored.insights.labor_efficiency }}
+
+**Cash Buffer — {{ Score (Code Node).scored.metrics.cash_buffer }} ({{ Score (Code Node).scored.components.cash_buffer_status }})**  
+{{ Score (Code Node).scored.insights.cash_buffer }}
+
+**Gross Margin — {{ Score (Code Node).scored.metrics.gross_margin }} ({{ Score (Code Node).scored.components.gross_margin_status }})**  
+{{ Score (Code Node).scored.insights.gross_margin }}
+
+**Average Order Value — ${{ Score (Code Node).scored.metrics.aov }} ({{ Score (Code Node).scored.components.aov_health_status }})**  
+{{ Score (Code Node).scored.insights.aov_health }}
+
+**Traffic Trend — {{ Score (Code Node).scored.metrics.traffic_trend }} ({{ Score (Code Node).scored.components.traffic_status }})**  
+{{ Score (Code Node).scored.insights.traffic }}
+
+---
+
+### 🏆 Wins to Lock In
+{{ Score (Code Node).scored.wins }}
+
+---
+
+### ✅ Lumen’s Recommendations
+☐ {{ Score (Code Node).scored.actions.action_1 }}  
+☐ {{ Score (Code Node).scored.actions.action_2 }}  
+☐ {{ Score (Code Node).scored.actions.action_3 }}  
+☐ {{ Score (Code Node).scored.actions.action_4 }}  
+☐ {{ Score (Code Node).scored.actions.action_5 }}
+
+---
+
+### 🧠 Mindset Tip
+> {{ Score (Code Node).scored.mindset_tip }}
+
+---
+
+### 🔥 Momentum
+{{ Score (Code Node).scored.momentum }}
+
+**Stay steady. Stay smart. You’re turning numbers into control.**  
+— Lumen
